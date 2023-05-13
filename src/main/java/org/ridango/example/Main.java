@@ -38,6 +38,7 @@ public class Main {
                             busArrivals = new ArrayList<>();
                         }
 
+
                         int previousSize = busArrivals.size();
                         boolean inserted = false;
 
